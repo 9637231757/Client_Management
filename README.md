@@ -245,7 +245,6 @@ Configure Database: Update settings.py to connect to MySQL/PostgreSQL.
 
 Migrate Database:
 
-bash
 Copy
 python manage.py migrate
 Create Superuser:
