@@ -267,4 +267,4 @@ DELETE /clients/{id}/ - Delete client
 Project Management
 POST /projects/ - Create a new project and assign users
 GET /projects/ - List projects assigned to the logged-in user
-DELETE /projects/{id}/ - Delete a project
+DELETE /projects/{id}/ - Delete a project ...
